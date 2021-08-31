@@ -7,6 +7,11 @@ You will be alloted marks for each right answer .
 
 this project is been made by the help of tanay sir.
 
+## Acknowledgements
+
+ - [LIVE PROJECT](https://replit.com/@ayush65pra/my-quiz?embed=1&output=1#index.js)
+ - [MY PORTFOLIO](https://ayush-portfolio-neog-camp.netlify.app/projects.html)
+
 
 ## Screenshots
 
